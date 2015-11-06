@@ -1,3 +1,3 @@
 # hello-world
 My first reposipony
-git it? A Pony. 
+git it? A Punny. 
